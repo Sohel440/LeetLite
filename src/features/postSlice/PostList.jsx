@@ -85,7 +85,7 @@ export default function PostsList() {
         ""
       )}
 
-      <Contest submitData={submitData}/>
+      {/* <Contest submitData={submitData}/> */}
     </div>
   );
 }
